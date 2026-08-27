@@ -4,6 +4,7 @@
 ![WaSap for WooCommerce | Elementor](screenshots/elementor.png)
 
 Versão: 3.9.5
+Idiomas: PT/BR - ES - EN
 
 Plugin para WordPress/WooCommerce que envia notificações de WhatsApp para clientes e administradores usando a API WaSap.
 
