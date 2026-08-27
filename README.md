@@ -1,5 +1,5 @@
 # WaSap for WooCommerce
-
+![WaSap for WooCommerce](screenshots/configuracoes.png)
 Versão: 3.9.5
 
 Plugin para WordPress/WooCommerce que envia notificações de WhatsApp para clientes e administradores usando a API WaSap.
