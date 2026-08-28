@@ -19,7 +19,7 @@ Plugin para WordPress/WooCommerce que envia notificações de WhatsApp para clie
 ## Compatibilidade
 
 - WordPress testado até a versão 7.0.2.
-- WooCommerce testado até a versão 10.9.4.
+- WooCommerce testado até a versão 11.0.1.
 - Compatibilidade com o High-Performance Order Storage (HPOS) do WooCommerce.
 
 ## Configurações do lojista
