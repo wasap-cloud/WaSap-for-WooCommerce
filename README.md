@@ -1,7 +1,9 @@
 # WaSap for WooCommerce
-![WaSap for WooCommerce | Configurações](screenshots/configuracoes.png)
-![WaSap for WooCommerce | Checkout](screenshots/checkout.png)
-![WaSap for WooCommerce | Elementor](screenshots/elementor.png)
+![WaSap for WooCommerce | Elementor](screenshots/wasap_for_woocommerce_checkout.png)
+![WaSap for WooCommerce | Elementor](screenshots/wasap_for_woocommerce_elementor.png)
+![WaSap for WooCommerce | Elementor](screenshots/wasap_for_woocommerce_modelos.png)
+![WaSap for WooCommerce | Elementor](screenshots/wasap_for_woocommerce_configurações.png)
+
 
 Idiomas: PT/BR - ES - EN
 
