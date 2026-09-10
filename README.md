@@ -8,6 +8,7 @@
 Idiomas: PT/BR - ES - EN
 
 Plugin para WordPress/WooCommerce que envia notificações de WhatsApp para clientes e administradores usando a API WaSap.
+Faça o download do plugin: [Baixar]([https://github.com/wasap-cloud/WaSap-for-WooCommerce/releases](https://github.com/wasap-cloud/WaSap-for-WooCommerce/releases/download/3.9.6/wasap_plugin_woocommerce.zip))
 
 ## Requisitos
 
